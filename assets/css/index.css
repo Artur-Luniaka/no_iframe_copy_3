@@ -1,0 +1,226 @@
+/* Index Page Styles */
+
+/* Hero Section */
+.hero-section {
+  height: 500px;
+  background: var(--gradient-sunset);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: var(--spacing-xl);
+  overflow: hidden;
+}
+
+.hero-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><rect width="8" height="8" x="0" y="0" fill="rgba(0,0,0,0.1)" /><rect width="8" height="8" x="8" y="8" fill="rgba(0,0,0,0.1)" /></svg>');
+  background-size: 16px 16px;
+  opacity: 0.5;
+}
+
+.hero-content {
+  max-width: 800px;
+  position: relative;
+  z-index: 1;
+  animation: fadeIn var(--transition-slow);
+}
+
+.hero-title {
+  font-size: var(--font-size-3xl);
+  color: var(--color-text-light);
+  margin-bottom: var(--spacing-md);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.hero-description {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-light);
+  margin-bottom: var(--spacing-lg);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-button::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.2);
+  transition: all var(--transition-normal);
+}
+
+.hero-button:hover {
+  background-color: var(--color-grass);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.hero-button:hover::before {
+  left: 100%;
+}
+
+/* Build Flow Section */
+.build-flow-section {
+  padding: var(--spacing-xl) 0;
+  background-color: var(--color-background);
+}
+
+.section-title {
+  font-size: var(--font-size-2xl);
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+  position: relative;
+  padding-bottom: var(--spacing-md);
+}
+
+.section-title::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 3px;
+  background: var(--gradient-sunset);
+  border-radius: var(--radius-sm);
+}
+
+.build-flow-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+  display: flex;
+  flex-direction: row;
+  gap: var(--spacing-lg);
+  justify-content: center;
+}
+
+/* Blockscape Section */
+.blockscape-section {
+  padding: var(--spacing-xl) 0;
+  background-color: var(--color-dirt);
+  color: var(--color-text-light);
+}
+
+.blockscape-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+}
+
+.blockscape-item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+/* Crafting Grounds Section */
+.crafting-grounds-section {
+  padding: var(--spacing-xl) 0;
+  background-color: var(--color-wood);
+  color: var(--color-text-light);
+}
+
+.crafting-grounds-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+}
+
+.crafting-title {
+  margin-bottom: 20px;
+}
+
+/* Biome Explorer Section */
+.biome-explorer-section {
+  padding: var(--spacing-xl) 0;
+  background-color: var(--color-grass);
+  color: var(--color-text-light);
+}
+
+.biome-explorer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+}
+
+.biome-card {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+/* Voices Section */
+.voices-section {
+  padding: var(--spacing-xl) 0;
+  background-color: var(--color-background);
+}
+
+.voice-avatar {
+  margin-bottom: 10px;
+  border-radius: 30px;
+  box-shadow: var(--shadow-md);
+}
+
+.voice-text {
+  text-align: center;
+}
+
+.voice-name {
+  color: var(--color-emerald);
+}
+
+.voice-location {
+  color: var(--color-wood);
+}
+
+.voice-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.voices-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+  display: flex;
+  flex-direction: row;
+  gap: var(--spacing-lg);
+  justify-content: center;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .build-flow-content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .voices-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hero-title {
+    font-size: var(--font-size-2xl);
+  }
+
+  .hero-description {
+    font-size: var(--font-size-md);
+  }
+
+  .section-title {
+    font-size: var(--font-size-xl);
+  }
+}

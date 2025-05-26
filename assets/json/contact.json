@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Village Hub | Minecraft Adventure",
+    "description": "Get in touch with the Minecraft Adventure team. We'd love to hear from you!"
+  },
+  "hero": {
+    "title": "Village Hub",
+    "subtitle": "Connect with us and join our community"
+  },
+  "form": {
+    "title": "Send Us a Message"
+  },
+  "info": {
+    "title": "Contact Information",
+    "address": "42 Granite Street, Port Macquarie NSW 2444, Australia",
+    "phone": "+61 2 4831 7896",
+    "email": "info@domain.com",
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3523.123456789!2d152.9123456!3d-31.4301234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9e123456789abc%3A0xabcdef1234567890!2s42%20Granite%20St%2C%20Port%20Macquarie%20NSW%202444%2C%20Australia!5e0!3m2!1sen!2sau!4v1716273158655!5m2!1sen!2sau\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  }
+}

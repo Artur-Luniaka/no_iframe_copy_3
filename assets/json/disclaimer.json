@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": "Ender Accord | Minecraft Adventure",
+    "description": "Important disclaimers and legal information about Minecraft Adventure."
+  },
+  "hero": {
+    "title": "Ender Accord",
+    "subtitle": "Important information about our website and services"
+  },
+  "content": [
+    {
+      "title": "Website Disclaimer",
+      "paragraphs": [
+        "The information provided on this website is for general informational purposes only. While we strive to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.",
+        "Any reliance you place on such information is therefore strictly at your own risk. In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website."
+      ]
+    },
+    {
+      "title": "Minecraft Ownership",
+      "paragraphs": [
+        "Minecraft is a registered trademark of Mojang Studios. This website is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft.",
+        "All Minecraft-related content, including but not limited to names, terms, and graphics, are the property of their respective owners."
+      ]
+    },
+    {
+      "title": "External Links",
+      "paragraphs": [
+        "Through this website, you may be able to link to other websites which are not under our control. We have no control over the nature, content, and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorsement of the views expressed within them."
+      ]
+    },
+    {
+      "title": "Website Availability",
+      "paragraphs": [
+        "Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control."
+      ]
+    }
+  ]
+}

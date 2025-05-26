@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Mario's Adventures | The Super Mario Bros. Movie Game",
+    "description": "Dive into the world of The Super Mario Bros. Movie Game, explore the Mushroom Kingdom, and embark on epic adventures."
+  },
+  "hero": {
+    "title": "Welcome to Mario's Adventure",
+    "description": "Explore endless possibilities, rescue Princess Peach, and embark on epic adventures in the world of The Super Mario Bros. Movie Game."
+  },
+  "buildFlow": {
+    "title": "Hero's Journey",
+    "items": [
+      {
+        "icon": "🍄",
+        "title": "Start Your Journey",
+        "description": "Begin with a vision and plan out your adventure. Strategize and map your path to victory."
+      },
+      {
+        "icon": "⭐",
+        "title": "Collect Power-Ups",
+        "description": "Gather coins, stars, and other power-ups to aid you on your quest. Use them wisely to overcome obstacles."
+      },
+      {
+        "icon": "🐢",
+        "title": "Overcome Obstacles",
+        "description": "Battle Koopas, Goombas, and other foes. Jump, run, and use your skills to conquer each level."
+      },
+      {
+        "icon": "👑",
+        "title": "Rescue the Princess",
+        "description": "Push forward to save Princess Peach from the clutches of the cunning Bowser and restore peace to the Mushroom Kingdom."
+      }
+    ]
+  },
+  "blockscape": {
+    "title": "Mario's World",
+    "content": "<div class='blockscape-grid'><div class='blockscape-item'><h3>Infinite Possibilities</h3><p>Hundreds of unique levels and challenges await you. Explore the Mushroom Kingdom, underground caves, and snowy peaks.</p></div><div class='blockscape-item'><h3>Express Yourself</h3><p>Every jump and action is a reflection of your skill. Create your own path and tell your story in the Mario universe.</p></div></div>"
+  },
+  "craftingGrounds": {
+    "title": "Power-Up Zone",
+    "content": "<div class='crafting-showcase'><div class='crafting-text'><h3 class='crafting-title'>Master the Art of Power-Ups</h3><p>Combine resources to create tools, weapons, armor, and decorative items. Discover new recipes and perfect your crafting skills.</p><p>From Fire Flowers to Invincibility Stars, power-ups are at the heart of your Mario journey.</p></div><div class='crafting-image'><div class='crafting-table'></div></div></div>"
+  },
+  "biomeExplorer": {
+    "title": "World Explorer",
+    "content": "<div class='biome-carousel'><div class='biome-card'><h3>Sunny Meadows</h3><p>Explore vibrant fields teeming with life and secrets.</p></div><div class='biome-card'><h3>Dangerous Deserts</h3><p>Navigate the sandy dunes and discover hidden treasures.</p></div><div class='biome-card'><h3>Snowy Mountains</h3><p>Brave the cold and build ice palaces in these frozen landscapes.</p></div><div class='biome-card'><h3>Deep Oceans</h3><p>Dive into underwater adventures and find sunken treasures.</p></div></div>"
+  },
+  "voices": {
+    "title": "Voices From the Heroes",
+    "items": [
+      {
+        "text": "The Super Mario Bros. Movie Game has unleashed my thirst for adventure! I've cleared all levels and made friends from all over the world!",
+        "name": "MushroomHero2000",
+        "location": "Mushroom Kingdom"
+      },
+      {
+        "text": "The community is what makes this game special. Everyone is so helpful and supportive of each other's progress and adventures.",
+        "name": "PrincessGamer",
+        "location": "Peach's Castle"
+      },
+      {
+        "text": "I've been playing for over 8 years and still discover new things every day. The possibilities are truly endless!",
+        "name": "StarSeeker",
+        "location": "Star Haven"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Redstone Chronicles | Minecraft Adventure",
+    "description": "Stay up to date with the latest Minecraft news, updates, and community events."
+  },
+  "hero": {
+    "title": "Redstone Chronicles",
+    "subtitle": "The latest news from the world of Minecraft"
+  },
+  "articles": [
+    {
+      "image": "./images/news-1.png",
+      "date": "May 21, 2025",
+      "title": "New Biomes Update Coming Soon",
+      "excerpt": "Explore the upcoming Minecraft update featuring new biomes, mobs, and building blocks that will expand your creative possibilities."
+    },
+    {
+      "image": "./images/news-2.png",
+      "date": "May 15, 2025",
+      "title": "Community Build Challenge: Sky Islands",
+      "excerpt": "Join thousands of players in our monthly build challenge. This month's theme: floating islands in the sky!"
+    },
+    {
+      "image": "./images/news-3.png",
+      "date": "May 10, 2025",
+      "title": "Redstone Innovations: Automatic Farms",
+      "excerpt": "Learn how to create efficient automatic farms using the latest redstone techniques from master engineers."
+    }
+  ]
+}
