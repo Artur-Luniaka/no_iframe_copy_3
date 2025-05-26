@@ -1,30 +1,30 @@
 {
   "meta": {
-    "title": "Redstone Chronicles | Minecraft Adventure",
-    "description": "Stay up to date with the latest Minecraft news, updates, and community events."
+    "title": "Mushroom Report | Mario Game News",
+    "description": "Catch up on the latest adventures, game updates, and events from the Mushroom Kingdom!"
   },
   "hero": {
-    "title": "Redstone Chronicles",
-    "subtitle": "The latest news from the world of Minecraft"
+    "title": "Mushroom Report",
+    "subtitle": "Breaking news from the Super Mario universe"
   },
   "articles": [
     {
       "image": "./images/news-1.png",
       "date": "May 21, 2025",
-      "title": "New Biomes Update Coming Soon",
-      "excerpt": "Explore the upcoming Minecraft update featuring new biomes, mobs, and building blocks that will expand your creative possibilities."
+      "title": "New Worlds Unlocked Soon",
+      "excerpt": "Get ready for fresh levels, power-ups, and surprises in the next big Mario update—don’t miss it!"
     },
     {
       "image": "./images/news-2.png",
       "date": "May 15, 2025",
-      "title": "Community Build Challenge: Sky Islands",
-      "excerpt": "Join thousands of players in our monthly build challenge. This month's theme: floating islands in the sky!"
+      "title": "Peach’s Castle Challenge Begins",
+      "excerpt": "Compete with players worldwide by designing your version of Peach’s Castle. Only the most creative will win!"
     },
     {
       "image": "./images/news-3.png",
       "date": "May 10, 2025",
-      "title": "Redstone Innovations: Automatic Farms",
-      "excerpt": "Learn how to create efficient automatic farms using the latest redstone techniques from master engineers."
+      "title": "Tech Behind the Pipes: Warp Zone Secrets",
+      "excerpt": "Discover how warp pipes really work and uncover tips to master hidden shortcuts like a true Mario pro."
     }
   ]
 }

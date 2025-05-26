@@ -1,37 +1,37 @@
 {
   "meta": {
-    "title": "Ender Accord | Minecraft Adventure",
-    "description": "Important disclaimers and legal information about Minecraft Adventure."
+    "title": "Pipe Protocol | Super Mario Game Info",
+    "description": "Important disclaimers and legal info about the Super Mario Bros Movie Game fan website."
   },
   "hero": {
-    "title": "Ender Accord",
-    "subtitle": "Important information about our website and services"
+    "title": "Pipe Protocol",
+    "subtitle": "Essential details about this fan site and its content"
   },
   "content": [
     {
-      "title": "Website Disclaimer",
+      "title": "Site Disclaimer",
       "paragraphs": [
-        "The information provided on this website is for general informational purposes only. While we strive to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.",
-        "Any reliance you place on such information is therefore strictly at your own risk. In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website."
+        "The content on this fan website is provided for entertainment and informational purposes only. While we aim to present accurate and fun content, we make no guarantees regarding the accuracy, reliability, or completeness of anything featured here, including gameplay tips, artwork, or descriptions.",
+        "Use of any information from this site is entirely at your own risk. We are not liable for any kind of loss or damage, including indirect or consequential loss, resulting from the use of this site or its content."
       ]
     },
     {
-      "title": "Minecraft Ownership",
+      "title": "Mario Franchise Ownership",
       "paragraphs": [
-        "Minecraft is a registered trademark of Mojang Studios. This website is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft.",
-        "All Minecraft-related content, including but not limited to names, terms, and graphics, are the property of their respective owners."
+        "Super Mario is a registered trademark of Nintendo. This website is not affiliated with, endorsed by, or sponsored by Nintendo or Illumination.",
+        "All names, characters, worlds, and other assets related to the Mario franchise remain the property of their respective owners."
       ]
     },
     {
-      "title": "External Links",
+      "title": "External Warp Pipes",
       "paragraphs": [
-        "Through this website, you may be able to link to other websites which are not under our control. We have no control over the nature, content, and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorsement of the views expressed within them."
+        "This site may contain links (warp pipes!) to other sites beyond our control. We are not responsible for the content, policies, or availability of those external sites. Just because we link there doesn't mean we endorse their views or content."
       ]
     },
     {
-      "title": "Website Availability",
+      "title": "Site Availability",
       "paragraphs": [
-        "Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control."
+        "We do our best to keep this fan site online and accessible. However, we are not responsible for any downtime due to technical glitches, Koopaling attacks, or other unexpected issues beyond our control."
       ]
     }
   ]
